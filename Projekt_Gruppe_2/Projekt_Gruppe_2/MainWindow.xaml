@@ -7,6 +7,10 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
+        <TextBlock x:Name="ausgabeTest" Height="100" VerticalAlignment="Top"/>
+        <TextBox x:Name="textboxTest" Text="hier schreiben..." Height="100"/>
+        <Button x:Name="btnSenden" Height="50" Width="100" Click="btnSenden_Click" VerticalAlignment="Bottom" Content="Senden"/>
+        <Button x:Name="btnLesen" Height="50" Width="100" Click="btnLesen_Click" HorizontalAlignment="Left" VerticalAlignment="Bottom" Content="Lesen"/>
 
     </Grid>
 </Window>
