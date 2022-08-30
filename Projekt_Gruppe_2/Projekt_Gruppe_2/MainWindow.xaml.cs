@@ -24,6 +24,7 @@ namespace Projekt_Gruppe_2
         int test;
         int test1;
         int testGina;
+        int Michiii;
 
         public MainWindow()
         {
