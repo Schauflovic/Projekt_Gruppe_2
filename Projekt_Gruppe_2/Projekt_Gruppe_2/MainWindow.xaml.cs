@@ -20,6 +20,9 @@ namespace Projekt_Gruppe_2
     /// </summary>
     public partial class MainWindow : Window
     {
+
+        int test;
+
         public MainWindow()
         {
             InitializeComponent();
