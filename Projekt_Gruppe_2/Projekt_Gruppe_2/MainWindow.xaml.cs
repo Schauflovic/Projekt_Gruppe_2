@@ -21,11 +21,6 @@ namespace Projekt_Gruppe_2
     public partial class MainWindow : Window
     {
 
-        int test;
-        int test1;
-        int testGina;
-        int Michiii;
-
         public MainWindow()
         {
             InitializeComponent();
