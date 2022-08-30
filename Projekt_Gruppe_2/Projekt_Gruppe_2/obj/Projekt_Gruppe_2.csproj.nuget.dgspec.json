@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\internet\\Desktop\\Zweites Semester\\Praxisblock\\Programmieren2\\Projekt_Gruppe_2\\Projekt_Gruppe_2\\Projekt_Gruppe_2\\Projekt_Gruppe_2.csproj": {}
+    "C:\\Users\\user\\Documents\\Praxisblock II\\Projekt_Messenger\\Projekt_Gruppe_2\\Projekt_Gruppe_2\\Projekt_Gruppe_2\\Projekt_Gruppe_2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\internet\\Desktop\\Zweites Semester\\Praxisblock\\Programmieren2\\Projekt_Gruppe_2\\Projekt_Gruppe_2\\Projekt_Gruppe_2\\Projekt_Gruppe_2.csproj": {
+    "C:\\Users\\user\\Documents\\Praxisblock II\\Projekt_Messenger\\Projekt_Gruppe_2\\Projekt_Gruppe_2\\Projekt_Gruppe_2\\Projekt_Gruppe_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\internet\\Desktop\\Zweites Semester\\Praxisblock\\Programmieren2\\Projekt_Gruppe_2\\Projekt_Gruppe_2\\Projekt_Gruppe_2\\Projekt_Gruppe_2.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\Praxisblock II\\Projekt_Messenger\\Projekt_Gruppe_2\\Projekt_Gruppe_2\\Projekt_Gruppe_2\\Projekt_Gruppe_2.csproj",
         "projectName": "Projekt_Gruppe_2",
-        "projectPath": "C:\\Users\\internet\\Desktop\\Zweites Semester\\Praxisblock\\Programmieren2\\Projekt_Gruppe_2\\Projekt_Gruppe_2\\Projekt_Gruppe_2\\Projekt_Gruppe_2.csproj",
-        "packagesPath": "C:\\Users\\internet\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\internet\\Desktop\\Zweites Semester\\Praxisblock\\Programmieren2\\Projekt_Gruppe_2\\Projekt_Gruppe_2\\Projekt_Gruppe_2\\obj\\",
+        "projectPath": "C:\\Users\\user\\Documents\\Praxisblock II\\Projekt_Messenger\\Projekt_Gruppe_2\\Projekt_Gruppe_2\\Projekt_Gruppe_2\\Projekt_Gruppe_2.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Documents\\Praxisblock II\\Projekt_Messenger\\Projekt_Gruppe_2\\Projekt_Gruppe_2\\Projekt_Gruppe_2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\internet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +57,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }
