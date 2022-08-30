@@ -1,0 +1,10 @@
+{
+"TimestampUnix": "Unix Zeitstempel",
+"Payload": "Daten",
+"IpSender": "Ip Adresse des Senders",
+"AliasSender": "Name des Senders --> Kann auch leer sein",
+"DataFormat": "Datenformat --> pdf, html etc --> message für simple Textnachricht",
+"IpEmpfaenger": "Ip Adresse des Empfängers",
+"port":"port"
+}
+
