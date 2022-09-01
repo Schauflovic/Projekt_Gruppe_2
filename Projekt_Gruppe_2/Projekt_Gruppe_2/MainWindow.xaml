@@ -7,6 +7,36 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
+        <TabControl>
+            <TabItem Header="IP">
+                <Grid Background="#FFE5E5E5">
+
+                </Grid>
+            </TabItem>
+            <TabItem Header="Chat">
+                <Grid Background="#FFE5E5E5">
+                    <DataGrid SelectionChanged="DataGrid_SelectionChanged" Name="g1">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Binding="{Binding Time}" Header="Time"/>
+                            <DataGridTextColumn Binding="{Binding Message}" Header="Message"/>
+                        </DataGrid.Columns>
+
+                    </DataGrid>
+                    <TextBox HorizontalAlignment="Left" Margin="36,332,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="191" RenderTransformOrigin="0.5,0.5" Height="46">
+                        <TextBox.RenderTransform>
+                            <TransformGroup>
+                                <ScaleTransform/>
+                                <SkewTransform/>
+                                <RotateTransform Angle="-1.091"/>
+                                <TranslateTransform/>
+                            </TransformGroup>
+                        </TextBox.RenderTransform>
+                    </TextBox>
+                    <Button Content="Button" HorizontalAlignment="Left" Margin="684,337,0,0" VerticalAlignment="Top" Height="38" Width="100"/>
+
+                </Grid>
+            </TabItem>
+        </TabControl>
 
     </Grid>
 </Window>
