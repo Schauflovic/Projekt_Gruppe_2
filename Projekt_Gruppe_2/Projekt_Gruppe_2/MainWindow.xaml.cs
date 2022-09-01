@@ -71,7 +71,7 @@ namespace Projekt_Gruppe_2
             g1.ItemsSource = dt.DefaultView;
             con.Close();
         }
-        /*   private void DatenbankWrite()
+        /*   private void DatenbankWrite() tee
            {
                SqlConnection con = new SqlConnection();
                con.ConnectionString = ConfigurationManager.ConnectionStrings["ConnectionString"].ConnectionString;
