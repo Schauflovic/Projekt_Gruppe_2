@@ -17,7 +17,7 @@ namespace Projekt_Gruppe_2
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
-    /// </summary>
+    /// </summary>xxxxx
     public partial class MainWindow : Window
     {
 
